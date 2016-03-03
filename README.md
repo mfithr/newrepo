@@ -6,4 +6,4 @@ repository ini masih dalam percobaan. penulis masih belajar bagaimana branching 
 rencana kedepan repository ini akan memuat sistem antrian yang penulis akan kembangkan.
 
 /this repository just for trial. author use yii2 for framework on this web
-author still learning how to branch nd pull request, and newbie in yii2, on further plan this repository for queueing system which author focused. [sorry for bad english]
+author still learning how to branch nd pull request, and newbie in yii2, on further plan this repository for queue system which author focused. [sorry for bad english]
